@@ -57,12 +57,11 @@ Chat History:
 Model Selection: Change the model in the ChatWidget class by modifying the base_model_name variable to use a different transformer model.
 Chat History File: Update the path to the chat history file by modifying the chat_history_file variable in the load_chat_history and save_chat_history methods.
 
-## Experimental 📝
-Please note that AI is still in experimental stages with known problems such as bias, misinformation and leaking sensitive information. We cannot guarantee the accuracy, completeness, or timeliness of the information provided. We do not assume any responsibility or liability for the use or interpretation of this project.
-
-While we are committed to delivering a valuable user experience, please keep in mind that this AI service operates using advanced algorithms and machine learning techniques, which may occasionally generate results that differ from your expectations or contain errors. If you encounter any inconsistencies or issues, we encourage you to contact us for assistance.
-
-We appreciate your understanding as we continually strive to enhance and improve our AI services. Your feedback is valuable in helping us achieve that goal.
+## Disclaimer ⚠️
+- For Educational Purposes Only: This project is intended for educational and informational purposes. It is provided as-is without any warranties or guarantees regarding its functionality or suitability for any particular purpose. 🛠️
+- Model Performance: The performance and accuracy of the AI model used in this chatbot depend on various factors, including the quality and context of the input. Results may vary and should not be relied upon for critical decisions. 🤖
+- Privacy and Security: While efforts have been made to ensure privacy, avoid sharing sensitive or confidential information through this chatbot. Your interactions are saved in a local file, but we cannot guarantee complete security. 🔒
+- No Liability: The developers and contributors of this project are not liable for any damages, losses, or issues arising from the use of this application. Use it at your own risk. ⚠️
 
 ## Contributing 🤝
 
