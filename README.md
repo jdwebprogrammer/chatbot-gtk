@@ -57,18 +57,18 @@ Chat History:
 Model Selection: Change the model in the ChatWidget class by modifying the base_model_name variable to use a different transformer model.
 Chat History File: Update the path to the chat history file by modifying the chat_history_file variable in the load_chat_history and save_chat_history methods.
 
-## Disclaimer ⚠️
-- For Educational Purposes Only: This project is intended for educational and informational purposes. It is provided as-is without any warranties or guarantees regarding its functionality or suitability for any particular purpose. 🛠️
-- Model Performance: The performance and accuracy of the AI model used in this chatbot depend on various factors, including the quality and context of the input. Results may vary and should not be relied upon for critical decisions. 🤖
-- Privacy and Security: While efforts have been made to ensure privacy, avoid sharing sensitive or confidential information through this chatbot. Your interactions are saved in a local file, but we cannot guarantee complete security. 🔒
-- No Liability: The developers and contributors of this project are not liable for any damages, losses, or issues arising from the use of this application. Use it at your own risk. ⚠️
-
 ## Contributing 🤝
 
 Fork the repository and clone it to your local machine.
 Create a new branch for your changes.
 Make your changes and test them thoroughly.
 Submit a pull request with a clear description of your changes.
+
+## Disclaimer ⚠️
+- For Educational Purposes Only: This project is intended for educational and informational purposes. It is provided as-is without any warranties or guarantees regarding its functionality or suitability for any particular purpose. 🛠️
+- Model Performance: The performance and accuracy of the AI model used in this chatbot depend on various factors, including the quality and context of the input. Results may vary and should not be relied upon for critical decisions. 🤖
+- Privacy and Security: While efforts have been made to ensure privacy, avoid sharing sensitive or confidential information through this chatbot. Your interactions are saved in a local file, but we cannot guarantee complete security. 🔒
+- No Liability: The developers and contributors of this project are not liable for any damages, losses, or issues arising from the use of this application. Use it at your own risk. ⚠️
 
 ## License 📝
 
