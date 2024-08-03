@@ -2,6 +2,13 @@
 
 A simple AI chatbot application built using GTK for the Linux desktop environment. This chatbot utilizes the transformers library from Hugging Face to generate responses based on user input. The interface allows for a smooth conversational experience, with chat history being saved and loaded automatically.
 
+# Experimental 📝
+Please note that AI is still in experimental stages with known problems such as bias, misinformation and leaking sensitive information. We cannot guarantee the accuracy, completeness, or timeliness of the information provided. We do not assume any responsibility or liability for the use or interpretation of this project.
+
+While we are committed to delivering a valuable user experience, please keep in mind that this AI service operates using advanced algorithms and machine learning techniques, which may occasionally generate results that differ from your expectations or contain errors. If you encounter any inconsistencies or issues, we encourage you to contact us for assistance.
+
+We appreciate your understanding as we continually strive to enhance and improve our AI services. Your feedback is valuable in helping us achieve that goal.
+
 ## Features ✨
 
 Interactive Chat Interface: Built with GTK, providing a clean and responsive UI.
@@ -54,15 +61,15 @@ Chat History:
 
 ## Customization ⚙️
 
-    Model Selection: Change the model in the ChatWidget class by modifying the base_model_name variable to use a different transformer model.
-    Chat History File: Update the path to the chat history file by modifying the chat_history_file variable in the load_chat_history and save_chat_history methods.
+Model Selection: Change the model in the ChatWidget class by modifying the base_model_name variable to use a different transformer model.
+Chat History File: Update the path to the chat history file by modifying the chat_history_file variable in the load_chat_history and save_chat_history methods.
 
 ## Contributing 🤝
 
-    Fork the repository and clone it to your local machine.
-    Create a new branch for your changes.
-    Make your changes and test them thoroughly.
-    Submit a pull request with a clear description of your changes.
+Fork the repository and clone it to your local machine.
+Create a new branch for your changes.
+Make your changes and test them thoroughly.
+Submit a pull request with a clear description of your changes.
 
 ## License 📝
 
