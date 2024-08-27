@@ -2,6 +2,8 @@
 
 A simple AI chatbot application built using GTK for the Linux desktop environment. This chatbot utilizes the transformers library from Hugging Face to generate responses based on user input. The interface allows for a smooth conversational experience, with chat history being saved and loaded automatically.
 
+![ChatBot Screenshot](chatbot_gui.png)
+
 ## Features ✨
 
 Interactive Chat Interface: Built with GTK, providing a clean and responsive UI.
